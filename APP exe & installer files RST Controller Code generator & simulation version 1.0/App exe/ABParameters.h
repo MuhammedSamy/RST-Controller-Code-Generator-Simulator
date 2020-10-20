@@ -1,0 +1,10 @@
+#define Bp1  0.000000
+#define Bp2  0.100000
+#define Bp3  0.200000
+#define Ap1  1.000000
+#define Ap2  -1.300000
+#define Ap3  0.420000
+#define Bm1  0.161481
+#define Am1  1.000000
+#define Am2  -1.245089
+#define Am3  0.406570
